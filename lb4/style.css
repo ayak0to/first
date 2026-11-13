@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 30px 20px;
+  background: #f5f5f5;
+  font-family: Arial, sans-serif;
+  color: #1a1a1a;
+}
+
+h1 {
+  text-align: center;
+  margin: 0 0 25px;
+  font-size: 32px;
+  color: #2b2b2b;
+}
+
+.band {
+  display: block;
+  margin: 12px auto;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  box-sizing: border-box;
+}
+
+marquee {
+  padding: 0;
+  border-radius: 4px;
+}
